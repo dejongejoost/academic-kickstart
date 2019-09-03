@@ -14,7 +14,7 @@ day_night = true
 #   Latest font sets (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "classic"
 
 # Choose a font size.
 # Sizes: s (small), m (medium), l (large)
@@ -67,7 +67,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "joost.de.jong@rug.nl"
 phone = "888 888 88 88"
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
